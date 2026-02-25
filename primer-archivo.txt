@@ -9,3 +9,6 @@ Pasos:
 git config user name [nombre] -> global su usamos en nuestra pc
 git config user email [email] -> mismo que githun
 En cada cambio hacer un add/commit
+
+git config user.name -> para ver nuestro 
+usuario configurado
