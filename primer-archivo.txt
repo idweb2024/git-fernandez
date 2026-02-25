@@ -12,3 +12,7 @@ En cada cambio hacer un add/commit
 
 git config user.name -> para ver nuestro 
 usuario configurado
+
+Para examen de Objetos: 
+Generar token para 1 semana y mandartelo antes de bajar
+el repo
