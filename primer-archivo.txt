@@ -16,3 +16,5 @@ usuario configurado
 Para examen de Objetos: 
 Generar token para 1 semana y mandartelo antes de bajar
 el repo
+
+Comentario de: Actualizacion desde github
