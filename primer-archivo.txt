@@ -3,3 +3,9 @@ Pasos:
     2. status
     3. git add . (preparo archivos)
     4. commit (foto)
+
+
+
+git config user name [nombre] -> global su usamos en nuestra pc
+git config user email [email] -> mismo que githun
+En cada cambio hacer un add/commit
