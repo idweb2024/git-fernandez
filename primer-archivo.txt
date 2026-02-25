@@ -1,0 +1,5 @@
+Pasos:
+    1. init 
+    2. status
+    3. git add . (preparo archivos)
+    4. commit (foto)
